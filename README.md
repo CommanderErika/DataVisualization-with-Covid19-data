@@ -7,3 +7,22 @@ To create the graphics, the state Rio Grande do Norte was divided in ten territo
 You can find the database in this link: https://portalcovid19.saude.rn.gov.br/medidas/boletinsepidemiologicos/
 
 ## All graphics created 
+It will be shown here the graphics for the territory 'Terras Potiguaras' in which it has the great Natal.
+* Acumulated Cases of COVID-19
+![Acumulated cases](Images/casos_acumulados.png)
+* Acumulated Incidency 
+![Acumulated Incidency](Images/indicidência_acumulada.png)
+* Social Distancing
+![Social Distancing](Images/distanciamento.png)
+* Average age of deceased
+![Average age of deceased](Images/idade_media_falecidos.png)
+* Average age of infected
+![Average age of infected](Images/idade_media_infectados.png)
+* Symptom media
+![Symptom media](Images/media_sintomas.png)
+* Age pyramid of deceased
+![Age pyramid of deceased](Images/pirâmide_falecidos.png)
+* Age pyramid of infected
+![Age pyramid of infected](Images/pirâmide_infectados.png)
+* Lethality rate
+![Lethality rate](Images/taxa_letalidade.png)

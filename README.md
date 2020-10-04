@@ -3,6 +3,11 @@ due to world wide pandemic disease COVID-19, every country is passing through a 
 <br>
 To create the graphics, the state Rio Grande do Norte was divided in ten territories: Açu-Mossoró, Agreste Litoral Sul, Alto Oeste, Mato Grande, Potengi, Seridó, Sertão Central, Cabugi e Litoral Norte, Sertão do Apodi, Terras Potiguaras and Traíri.
 
+## Libraries used
+* Pandas - was used for data manipulation and extraction.
+* Seaborn - was used for data visualization.
+* Numpy 
+
 ### Where i can find the database?
 You can find the database in this link: https://portalcovid19.saude.rn.gov.br/medidas/boletinsepidemiologicos/
 
